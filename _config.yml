@@ -80,14 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dhruvi Lodhavia"
-  avatar           : "profile.png"
+  name             : "Dhruvi-Lodhavia"
+  avatar           : "./profile.png"
   bio              : "Senior Undergraduate at IIT Gandhinagar, applying for MS in Electrical and Computer Engineering for Fall 2022."
   location         : "Mumbai, India"
   employer         :
+  resume           : "https://drive.google.com/file/d/1CwhQduQXRVImdORZRhF2jwEzMR6xjvWx/view?usp=sharing" 
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  dhruvi.lodhavia@iitgn.ac.in
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
