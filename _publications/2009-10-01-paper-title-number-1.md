@@ -8,8 +8,8 @@ venue: 'CODS-COMAD 2022'
 paperurl: 'http://Dhruvi-Lodhavia.github.io/files/paper1.pdf'
 # citation: 'Dhruvi Lodhavia, Hetvi Shastri, Palak Purohit, Ronak Kaoshik and Nipun Batra (2022). &quot;Vastr-GAN: Versatile Apparel Synthesised from Text using a Robust Generative Adversarial Network.&quot; <i>CODS COMAD 2022</i>. 1(1).'
 ---
-This paper was a part of my Machine Learning course project, done under the guidance of Professor Nipun Batra.
+<!-- This paper was a part of my Machine Learning course project, done under the guidance of Professor Nipun Batra.
 
 [Download paper here](http://Dhruvi-Lodhavia.github.io/files/paper1.pdf)
 
--Dhruvi Lodhavia, Hetvi Shastri, Palak Purohit, Ronak Kaoshik and Nipun Batra (2022). "Vastr-GAN: Versatile Apparel Synthesised from Text using a Robust Generative Adversarial Network" <i>CODS COMAD 2022</i>.
+-Dhruvi Lodhavia, Hetvi Shastri, Palak Purohit, Ronak Kaoshik and Nipun Batra (2022). "Vastr-GAN: Versatile Apparel Synthesised from Text using a Robust Generative Adversarial Network" <i>CODS COMAD 2022</i>. -->
