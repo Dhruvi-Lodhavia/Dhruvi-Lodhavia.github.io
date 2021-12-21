@@ -1,6 +1,6 @@
 ---
-title: "Internship - IIT GN - Analysing the effect of radiation on devices"
-excerpt: "Analysed the effect of Single Event transients(SET) caused by radiation using UMC 65nm technology in Cadence Virtuoso<br/><img src='/images/radiation_hardening.png'>"
+title: "Research Project - Radiation Hardening for Space Applications"
+excerpt: "Developed a model for calculating the probability of a Single Event Transient striking a node causing system failure by latching to a sequential element<br/><img src='/images/radiation_hardening.png'>"
 collection: projects
 ---
 
