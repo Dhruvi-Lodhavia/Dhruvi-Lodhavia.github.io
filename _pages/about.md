@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior undergraduate at IIT Gandhinagar, pursuing a major in Electrical Engineering and a minor in Computer Science. 
+I am a first year masters student at University of California San Diego, USA, pursuing a major in Computer Engineering. 
 
 Domains I'm interesed in - 
 
 - Computer Architecture
-- VLSI Design
-- Ubiquitous Computing
+- RTL Design for ASIC and FPGA
 
 
 
