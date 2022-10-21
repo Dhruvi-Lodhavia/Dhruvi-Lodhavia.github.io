@@ -2,7 +2,7 @@
 title: "SpiroMask: Measuring Lung Function Using Consumer-Grade Masks"
 collection: publications
 # permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'I worked on analysis and data collection of breathing samples. I used signal processing for cleaning the signals and extracting frequencies that contain breathing information. I applied machine learning for classifying breathing from speech and noise samples'
+excerpt: 'I worked on analysis and data collection of breathing samples. Used signal processing for cleaning the signals and extracting frequencies that contain breathing information and applied machine learning for classifying breathing from speech and noise samples'
 date: 2022-01-8
 venue: 'ACM Transactions of Computing for Healthcare'
 paperurl: 'http://Dhruvi-Lodhavia.github.io/files/paper2.pdf'
